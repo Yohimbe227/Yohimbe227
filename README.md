@@ -5,7 +5,7 @@
 
 ## 🌐 Контакты:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamanin227) 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Yohimbe25)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kamaninyun)
 <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 # 💻 Tech Stack:
